@@ -8,7 +8,7 @@
 <p>
   💡 I’m currently working on <b>Full-Stack, AI/ML, and Mobile Development Projects</b><br>
   🌱 I’m exploring more of <b>DevOps Tools and Scalable Backend Architectures</b><br>
-  📫 Reach me at <b>sarahnauman15@email.com</b><br>
+  📫 Reach me at <a href="mailto:sarahnauman15@gmail.com"><b>sarahnauman15@gmail.com</b></a><br>
 </p>
 
 ---
