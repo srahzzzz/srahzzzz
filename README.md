@@ -79,8 +79,6 @@
 
 <h3>📊 GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=srahzzzz&show_icons=true&theme=github_dark" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srahzzzz&layout=compact&theme=github_dark" />
 </p>
 
