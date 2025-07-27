@@ -7,15 +7,15 @@
 
 <p>
   💡 I’m currently working on <b>Full-Stack, AI/ML, and Mobile Development Projects</b><br>
-  🌱 I’m exploring more of <b>DevOps tools and Scalable Backend Architectures</b><br>
+  🌱 I’m exploring more of <b>DevOps Tools and Scalable Backend Architectures</b><br>
   📫 Reach me at <b>sarahnauman15@email.com</b><br>
 </p>
 
 ---
 
-<h2>🚀 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
-<h4>🖥️ Programming Languages</h4>
+<h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h4>🎨 Frontend</h4>
+<h4>Frontend</h4>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-<h4>🛠️ Backend</h4>
+<h4>Backend</h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-<h4>📱 Mobile App Development</h4>
+<h4>Mobile App Development</h4>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -52,28 +52,28 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-<h4>🧠 AI / ML</h4>
+<h4>AI / ML</h4>
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-0090B8?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h4>🗄️ Databases</h4>
+<h4>Databases</h4>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-<h4>⚙️ DevOps & Tools</h4>
+<h4>DevOps & Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-<h4>🧪 Software</h4>
+<h4>Software</h4>
 <p>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
